@@ -7,4 +7,4 @@ Este é um repositório para compartilhar os arquivos que utilizei no curso cita
 
 ## Como usar
 - Baixe o repositório;
-- Use o comando 'npm start' na raiz do projeto para rodar o projeto
+- Use o comando 'npm start' na raiz do projeto para rodá-lo.
